@@ -50,7 +50,7 @@ class SixSevenDaysFromNow extends HTMLElement {
                 }
 
                 .days-number {
-                    font-size: clamp(60px, 15vw, 120px);
+                    font-size: 16vw;
                     font-weight: 900;
                     background: linear-gradient(135deg, #368dda 0%, #764ba2 100%);
                     -webkit-background-clip: text;
